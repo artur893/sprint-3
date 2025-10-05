@@ -20,5 +20,3 @@ if (isWarsawCitizen) {
 }
 
 greeting += `\nHobby is ${userHobby}`;
-
-console.log(greeting);
